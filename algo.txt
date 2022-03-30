@@ -1,0 +1,13 @@
+1. Save a word into a variable when the game begins
+2. When the button is pressed
+    a. Save the letter that the user pressed into a variable    
+    b. if the letter is in the word 
+            the button should dissapper
+            the letter should be displayed in the word
+
+        if the letter is not in the word
+            the letter should dissapper
+            a limb of the hang man should be displayed
+            the number of mistakes should  increase
+
+    c. Check the result
